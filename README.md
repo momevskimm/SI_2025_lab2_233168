@@ -2,7 +2,8 @@
 Matej Momevski 233168
 
 ## Control Flow Graph
-![image](https://github.com/user-attachments/assets/d7f61e5c-d924-471f-aef5-9274c197d772)
+![image](https://github.com/user-attachments/assets/0f893766-3c78-4abf-b275-98d609b44df3)
+
 ## Пресметајте ја цикломатската комплексност на дадениот код. Објаснете како стигнавте до резултатот.
 Цикломатската комплексност е 9 и ја добив така што ги изброив сите предикатни јазли и +1.
 
